@@ -12,7 +12,7 @@ import os
 # print(response.choices[0].text.strip())
 
 
-openai.api_key = 'sk-proj-kXrCHKZNiTYj5jVQwtpVT3BlbkFJhQuCBku11ekcpnYEU89y'
+openai.api_key = '#####'
 
 response = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
